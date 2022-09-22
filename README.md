@@ -13,4 +13,10 @@
 
 **[05. 금융 기록을 기반으로 대출 전자 서명 가능성 예측](https://github.com/hamsterjoa/Machine_Learning_Practical/blob/main/Predicting_the_likelihood_of_e_signing_a_loan_based_on_financial_history.ipynb)**
 
-**[06. 신용 카드 사기 탐지]()**
+**06. 신용 카드 사기 탐지**
+
+**- [Deep Learning + Sampling](https://github.com/hamsterjoa/Machine_Learning_Practical/blob/main/Credit_card_fraud_detection_by_DeepLearning.ipynb)**
+
+**- [Random Forest](https://github.com/hamsterjoa/Machine_Learning_Practical/blob/main/Credit_card_fraud_detection_by_RandomForest.ipynb)**
+
+**- [Decision trees](https://github.com/hamsterjoa/Machine_Learning_Practical/blob/main/Credit_card_fraud_detection_by_Decisiontrees.ipynb)**
