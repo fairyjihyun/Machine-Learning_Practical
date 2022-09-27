@@ -17,6 +17,6 @@
 
 **- [Deep Learning + Sampling](https://github.com/hamsterjoa/Machine_Learning_Practical/blob/main/Credit_card_fraud_detection_by_DeepLearning.ipynb)**
 
-**- [Random Forest](https://github.com/hamsterjoa/Machine_Learning_Practical/blob/main/Credit_card_fraud_detection_by_RandomForest.ipynb)**
+**- [Random Forest](https://github.com/hamsterjoa/Machine-Learning_Practical/blob/main/Credit_card_fraud_detection_by_RandomForest.ipynb)**
 
 **- [Decision trees](https://github.com/hamsterjoa/Machine_Learning_Practical/blob/main/Credit_card_fraud_detection_by_Decisiontrees.ipynb)**
